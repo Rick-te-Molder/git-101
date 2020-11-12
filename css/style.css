@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+.navbar {
+	height: 100vm;
+}
+
+#logo {
+	height: 10%;
+}
+
+.flex-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 30vh;
+	flex-direction: column;
+}
+
+.banner {
+	background-color: white;
+}
+
+.hero {
+	text-align: center;
+	color: #4570b5;
+}
+
+
